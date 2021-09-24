@@ -528,10 +528,10 @@
   resolved "https://registry.yarnpkg.com/@kizahasi/option/-/option-1.0.0.tgz#e335d217579cfb334ac9e593d5cb8f9be5309b9c"
   integrity sha512-dtLMDRmai9lAWs4Z7Ar/zXihcrGlq3Zh2gf9PqbWOlpxxT2kCEUKLYVaAUMy6OptHtm7/3ykCbs3yJwmtg5jnA==
 
-"@kizahasi/util@^0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@kizahasi/util/-/util-0.8.0.tgz#06f00be1f76b9b5f8e3bc8227622cdea8ab4619a"
-  integrity sha512-72NQq+rCuMkgM0RtjugDUeLFUDdZA/Pwn0QZihwX+9NAdXldlpHTDf3u+SwVynyGsJyQ0CDjWakfnWNAM9OWsw==
+"@kizahasi/util@^0.9.0":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@kizahasi/util/-/util-0.9.1.tgz#9c19eac7d5554898b1bc5e79edd13fb3f1b491ef"
+  integrity sha512-O4+hCuQDebTIK3ffSJ5pQFZd8rLDjTjzsjL3iZZDdlJyZ6NZ5Mok9iP5AwhWndet4pJA5PxADuIKF5VQrFvI9g==
   dependencies:
     "@kizahasi/option" "^1.0.0"
 
